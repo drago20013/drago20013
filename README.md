@@ -25,7 +25,7 @@ I am a 5th semester Computer Science student based in Poland :mortar_board:
 
 - :seedling: My current university major language is C++
 
-- :mailbox:How to reach me: **smaluchmichal@gmail.com**
+- :mailbox: How to reach me: **smaluchmichal@gmail.com**
 
 ---
 
