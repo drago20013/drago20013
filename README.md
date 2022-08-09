@@ -1,5 +1,5 @@
 <div id="header" align="center" padding="500">
-  <img src="michal_circle.png" width="360"/>
+  <img src="https://user-images.githubusercontent.com/11234896/183734991-1a1088ba-13b9-4a4f-926a-4d1c096ecfee.png" width="360"/>
   
 <div id="badges">
 <br>
