@@ -20,7 +20,7 @@
 
 
 ### :man_technologist: About Me :
-I am a 5th semester Computer Science student based in Poland :mortar_board:
+I am a 6th semester Computer Science student based in Poland :mortar_board:
 - :telescope: I’m interested in Software Engineering, Agile Methodologies (Scrum, Kanban) and Space Exploration.
 
 - :seedling: My current university major language is C++
