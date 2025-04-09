@@ -20,11 +20,10 @@
 
 
 ### :man_technologist: About Me :
-I am a final-semester Computer Science student based in Poland :mortar_board:
-- :telescope: I’m interested in Software Engineering, Agile Methodologies (Scrum, Kanban) and Space Exploration.
+I am a Bachelor of Computer Science graduate based in Poland :mortar_board:
 
-- :seedling: My current university major language is C++
-
+- :telescope: I’m passionate about Software Engineering, hardware, low-level programming, and Space Exploration.
+- :seedling: My favorite programming language is C++, with a strong interest in hardware, graphic and low-level programming.
 - :mailbox: How to reach me: **smaluchmichal@gmail.com**
 
 ---
